@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using Models;
 
-namespace Controller{
+namespace Controllers{
     class FuncionarioController{
         //Function for adding employer in model
         public static void addFunc(int id, string nome, string cpf){

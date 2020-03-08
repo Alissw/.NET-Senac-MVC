@@ -1,8 +1,8 @@
 using System;
-using Controller;
+using Controllers;
 using Models;
 
-namespace View{
+namespace Views{
     class FuncionarioView
     {
         //Add the employer
