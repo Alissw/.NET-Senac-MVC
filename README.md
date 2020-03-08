@@ -1,2 +1,2 @@
 # .NET-Senac-MVC
-Desenvolvimento em MVC
+Aplicação em MVC
